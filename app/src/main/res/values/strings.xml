@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Group57_Inclass10</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="signup">Sign Up</string>
+    <string name="cancel">Cancel</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="full_name">Full Name</string>
+    <string name="login">Login</string>
+    <string name="current_expenses">Current Expenses:</string>
+    <string name="logout">LogOut</string>
+    <string name="close">Close</string>
+    <string name="add_exp">Add Expense</string>
+    <string name="exp_name">Expense Name</string>
+    <string name="category">Category</string>
+    <string name="amount">Amount</string>
+    <string name="add_button">Add Expense</string>
+    <string name="cancelBtn">Cancel</string>
+    <string name="no_expenses">No Expenses</string>
+    <array name="category_spinner">
+        <item name="groceries">Groceries</item>
+        <item name="invoice">Invoice</item>
+        <item name="transportation">Transportation</item>
+        <item name="shopping">Shopping</item>
+        <item name="rent">Rent</item>
+        <item name="trips">Trips</item>
+        <item name="utilities">Utilities</item>
+        <item name="other">Other</item>
+    </array>
+</resources>
